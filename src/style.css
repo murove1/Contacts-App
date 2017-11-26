@@ -1,0 +1,51 @@
+.contacts {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 10px 0 10px 0;
+}
+
+.search-container {
+  text-align: center;
+}
+
+.search-field {
+  display: inline-block;
+  width: 90%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.contacts-list {
+  padding: 0;
+  width: 100%;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px dotted #545454;
+}
+
+.contact:first-child {
+  border-top: 1px dotted #545454;
+}
+
+.contact-image {
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.contact-name {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.contact-number {
+  font-size: 18px;
+  color: #545454;
+}

@@ -2,7 +2,7 @@
 My contacts-app on React
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/16261471/33241429-cc9450ce-d2cd-11e7-91e1-a44da2630ca5.jpg" alt="Contacts-App">
+	<img src="https://user-images.githubusercontent.com/16261471/33260207-cb8451c6-d367-11e7-87e7-0d6c1333fc8b.gif" alt="Contacts-App">
 </p>
 
 # Getting Started
